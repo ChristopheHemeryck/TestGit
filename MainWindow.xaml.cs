@@ -30,7 +30,7 @@ namespace TestGit
 
             lblResult.Content = "This branch is the Kenny";
 
-            lblResult.Content = "This branch is Christophe";
+            
 
         }
     }
