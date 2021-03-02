@@ -24,5 +24,10 @@ namespace TestGit
         {
             InitializeComponent();
         }
+
+        private void btnPush_Click(object sender, RoutedEventArgs e)
+        {
+            lblResult.Content = "This branch is the Master";
+        }
     }
 }
