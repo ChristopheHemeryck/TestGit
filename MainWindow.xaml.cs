@@ -30,7 +30,7 @@ namespace TestGit
 
             
 
-            lblResult.Content = "Welkom bij de beste groep van werkplekleren";
+            lblResult.Content = "Mohamed was in de branch van Christope";
 
         }
     }
