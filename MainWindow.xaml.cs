@@ -30,7 +30,7 @@ namespace TestGit
 
             
 
-            lblResult.Content = "This branch is Christophe";
+            lblResult.Content = "Mohamed was in de branch van Christope";
 
         }
     }
