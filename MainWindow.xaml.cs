@@ -27,7 +27,11 @@ namespace TestGit
 
         private void btnPush_Click(object sender, RoutedEventArgs e)
         {
+
+            lblResult.Content = "This branch is the Kenny";
+
             lblResult.Content = "This branch is Christophe";
+
         }
     }
 }
