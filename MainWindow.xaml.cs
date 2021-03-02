@@ -30,7 +30,7 @@ namespace TestGit
 
             
 
-            lblResult.Content = "This branch is Christophe";
+            lblResult.Content = "Welkom bij de beste groep van werkplekleren";
 
         }
     }
